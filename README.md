@@ -6,3 +6,4 @@ Use following command to run ruby script
 
 
 Yet another changeTest nano
+Test vim commit
